@@ -1,4 +1,4 @@
-# <img alt="Gif de un coco con un gorro, tocando la trompeta y bailando con estilo dibujo" src="https://i.imgur.com/eJ6DZtz.gif" width="100px" height="100px"/> Hola, mi nombre es Manuel Medina 👋
+# Hola, mi nombre es Manuel Medina 👋
 ### Estudiante de Ingeniería Electrónica y Automática Industrial
 
 
