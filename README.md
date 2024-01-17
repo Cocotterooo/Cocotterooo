@@ -12,6 +12,7 @@ Ahora estoy tomándome más en serio la programación, ya que veo que puede ser 
 
 #  Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
 Con intención de aprender MySQL en un corto plazo...
 
 #  Proyectos Activos:
