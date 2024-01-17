@@ -1,5 +1,4 @@
-# ![Gif de un coco con un gorro, tocando la trompeta y bailando con estilo dibujo](https://i.imgur.com/eJ6DZtz.gif) Hola, mi nombre es Manuel Medina 👋
-<img src="https://i.imgur.com/eJ6DZtz.gif" width="100px" height="100px"/>
+# <img alt="Gif de un coco con un gorro, tocando la trompeta y bailando con estilo dibujo" src="https://i.imgur.com/eJ6DZtz.gif" width="100px" height="100px"/> Hola, mi nombre es Manuel Medina 👋
 
 <!--
 **Cocotterooo/Cocotterooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
