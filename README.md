@@ -13,7 +13,7 @@ Ahora estoy tomándome más en serio la programación, ya que veo que puede ser 
 
 #  Proyectos Activos:
 ## <img alt="Logo de Anland Supervivencia" src="https://i.imgur.com/fAigIRT.png" width="48px" height="48px"/>  Analand Supervivencia:  
- <center><img alt="Banner de Analand Supervivencia con un estilo que recuerda al videojuego Minecraft" src="https://i.imgur.com/j8v4euL.png" width="50%" height="100%"/>
+ <center><img alt="Banner de Analand Supervivencia con un estilo que recuerda al videojuego Minecraft" src="https://i.imgur.com/j8v4euL.png" width="50%" height="100%"/></center>
 
 
 Un proyecto más enfocado a la configuración y diversión ya que está directamente relacionado con el videojuego Minecraft. 
