@@ -1,4 +1,4 @@
-<img alt="Hola, Soy Manuel Medina Estudiante de Ingeniería Electrónica y Automática Industrial" src="https://i.imgur.com/sxwl80S.png" width="50px" height="50px"/>
+<img alt="Hola, Soy Manuel Medina Estudiante de Ingeniería Electrónica y Automática Industrial" src="https://i.imgur.com/sxwl80S.png" width="100%" height="100%"/>
 
 # <img alt="Gif Circular con un coco con sombrero tocando una trompeta mientras baila y con un estilo de dibujo" src="https://i.imgur.com/ZTuUJOc.gif" width="50px" height="50px"/> Hola, mi nombre es Manuel Medina 👋
 ### Estudiante de Ingeniería Electrónica y Automática Industrial
