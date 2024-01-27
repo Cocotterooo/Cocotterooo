@@ -10,8 +10,11 @@ Desde pequeño me ha interesado este mundo de la programación y la creación de
 Ahora estoy tomándome más en serio la programación, ya que veo que puede ser muy valioso en mi futuro cercano ya sea en los estudios o en un futuro trabajo, asique estoy intentando seguir con mi formación en mis tiempos libres :)
 
 #  Tecnologías:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![MicroPython](https://img.shields.io/badge/micropython-orange?style=for-the-badge&logo=micropython&logoColor=white&labelColor=101010)]() [![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)]() 
-[![MongoDB](https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() 
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
+[![MicroPython](https://img.shields.io/badge/micropython-orange?style=for-the-badge&logo=micropython&logoColor=white&labelColor=101010)]() 
+[![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)]() 
+</br>
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
 Con intención de aprender SQL en un corto plazo...
 
