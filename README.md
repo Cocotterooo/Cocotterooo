@@ -5,7 +5,7 @@
 
 Soy estudiante en la [**EEI**](https://eei.uvigo.es/es/) de la [**Universidad de Vigo**](https://www.uvigo.gal/es) en el grado de **Ingeniería Electrónica y automática Industrial**.
 
-Desde pequeño me ha interesado este mundo de la programación y la creación de proyectos, por tanto me he ido acercando poco a poco al mundo de la programación y la configuración de servicios siempre buscando una buena experiencia e intentando alcanzar la "perfección" en cada proyecto...
+Desde pequeño me ha interesado este mundo de la programación y la creación de proyectos, por tanto me he ido acercando poco a poco al mundo de la programación y la configuración de servicios, siempre buscando una buena experiencia e intentando alcanzar la "perfección" en cada proyecto...
 
 Ahora estoy tomándome más en serio la programación, ya que veo que puede ser muy valioso en mi futuro cercano ya sea en los estudios o en un futuro trabajo, asique estoy intentando seguir con mi formación en mis tiempos libres :)
 
