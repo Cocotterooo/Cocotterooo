@@ -10,13 +10,20 @@ Desde pequeño me ha interesado este mundo de la programación y la creación de
 Ahora estoy tomándome más en serio la programación, ya que veo que puede ser muy valioso en mi futuro cercano ya sea en los estudios o en un futuro trabajo, asique estoy intentando seguir con mi formación en mis tiempos libres :)
 
 #  Tecnologías que Aprendo...):
-[![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() 
-[![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 [![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]() 
+[![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() 
+[![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 [![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)]() 
 </br>
 [![Supabase](https://img.shields.io/badge/Supabase-purple?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)]()
 </br>
+
+#  Proyectos Activos:
+## [DAI Discord Bot](https://github.com/Cocotterooo/Discord-Bot-DAI)
+Bot oficial de la delegación de Alumnos de Industriales de la UVigo.
+</br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
+[![Pterodactyl](https://img.shields.io/badge/Pterodactyl-blue?style=for-the-badge&logo=Pterodactyl&logoColor=white&labelColor=101010)]()
