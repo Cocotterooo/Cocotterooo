@@ -18,12 +18,12 @@ Ahora estoy tomándome más en serio la programación, ya que veo que puede ser 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 [![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)]() 
 </br>
-[![Supabase](https://img.shields.io/badge/Supabase-purple?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)]()
+[![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)]()
 </br>
 
 #  Proyectos Activos:
 ## [DAI Discord Bot](https://github.com/Cocotterooo/Discord_Bot_DAI) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![Dockploy](https://img.shields.io/badge/Dockploy-black?style=for-the-badge&logo=Dockploy&logoColor=white&labelColor=101010)]()
 - Bot de discord oficial del discord de la **Ecuela de Ingeniería Industrial de la UVigo** https://discord.gg/rHC4rgZvqM
-## [DAI web](https://dai.uvigo.gal) [![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]() [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)]()  [![Dockploy](https://img.shields.io/badge/Dockploy-black?style=for-the-badge&logo=Dockploy&logoColor=white&labelColor=101010)]()
+## [DAI web](https://dai.uvigo.gal) [![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]() [![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)]() [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)]()  [![Dockploy](https://img.shields.io/badge/Dockploy-black?style=for-the-badge&logo=Dockploy&logoColor=white&labelColor=101010)]()
 - Web oficial de la **Delegación del alumnado** de la Ecuela de Ingeniería Industrial de la UVigo https://dai.uvigo.gal
 </br>
