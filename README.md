@@ -22,9 +22,7 @@ Ahora estoy tomándome más en serio la programación, ya que veo que puede ser 
 </br>
 
 #  Proyectos Activos:
-## [DAI Discord Bot](https://github.com/Cocotterooo/Discord-Bot-DAI)
-## [DAI web](https://dai.uvigo.gal)
+## [DAI Discord Bot](https://github.com/Cocotterooo/Discord-Bot-DAI) [JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [Dockploy](https://img.shields.io/badge/Dockploy-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+## [DAI web](https://dai.uvigo.gal) [![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]() [JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]() 
 Bot oficial de la delegación de Alumnos de Industriales de la UVigo.
 </br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
-[![Pterodactyl](https://img.shields.io/badge/Pterodactyl-blue?style=for-the-badge&logo=Pterodactyl&logoColor=white&labelColor=101010)]()
