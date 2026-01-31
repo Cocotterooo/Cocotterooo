@@ -23,6 +23,7 @@ Ahora estoy tomándome más en serio la programación, ya que veo que puede ser 
 
 #  Proyectos Activos:
 ## [DAI Discord Bot](https://github.com/Cocotterooo/Discord-Bot-DAI)
+## [DAI web](https://dai.uvigo.gal)
 Bot oficial de la delegación de Alumnos de Industriales de la UVigo.
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
