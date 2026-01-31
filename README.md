@@ -22,10 +22,14 @@ Ahora estoy tomándome más en serio la programación, ya que veo que puede ser 
 </br>
 
 #  Proyectos Activos:
-## [DAI Discord Bot](https://github.com/Cocotterooo/Discord_Bot_DAI) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![Dokploy](https://img.shields.io/badge/Dokploy-black?style=for-the-badge&logo=Dokploy&logoColor=white&labelColor=101010)]()
-- Bot de discord oficial del discord de la **Ecuela de Ingeniería Industrial de la UVigo** https://discord.gg/rHC4rgZvqM
-## [DAI web](https://dai.uvigo.gal) [![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]() [![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)]() [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)]()  [![Dokploy](https://img.shields.io/badge/Dokploy-black?style=for-the-badge&logo=Dokploy&logoColor=white&labelColor=101010)]()
+## [DAI Discord Bot](https://github.com/Cocotterooo/Discord_Bot_DAI) 
+- <p> Bot de discord oficial del discord de la <strong>Ecuela de Ingeniería Industrial de la UVigo</strong> https://discord.gg/rHC4rgZvqM </p>
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![Dokploy](https://img.shields.io/badge/Dokploy-black?style=for-the-badge&logo=Dokploy&logoColor=white&labelColor=101010)]()
+
+## [DAI web](https://dai.uvigo.gal) 
 - <p> Web oficial de la <strong>Delegación del alumnado</strong> de la Ecuela de Ingeniería Industrial de la UVigo https://dai.uvigo.gal <br>
   <sub>Por motivos de seguridad, los repositorios del Frontend y el Backend de la web son privados.</sub>
   </p>
+[![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]() [![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]() [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]() [![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)]() [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)]()  [![Dokploy](https://img.shields.io/badge/Dokploy-black?style=for-the-badge&logo=Dokploy&logoColor=white&labelColor=101010)]()
+
 
